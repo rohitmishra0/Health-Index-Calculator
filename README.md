@@ -1,2 +1,2 @@
 # Health-Index-Calculator
-Activity 1
+Cognizant Internship - Activity 1
